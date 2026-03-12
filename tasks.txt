@@ -1,0 +1,2 @@
+1|Buy groceries|NEW
+2|Finish internship task|IN_PROGRESS
